@@ -72,7 +72,7 @@ className="flex flex-col justify-center items-start w-full gap-2 bg-[#f5eded]"
 >
     <input type="text" placeholder="Enter Full Name" className="px-6 py-3 border-[2px] border-gray-500 text-black rounded-lg w-full"/>
     <input type="E-mail" placeholder="Enter Emial address" className="px-6 py-3 border-[2px] border-gray-500 text-black rounded-lg w-full"/>
-    <input type="number" placeholder="Enter phone number" className="px-6 py-3 border-[2px] border-gray-500 text-black rounded-lg w-full"/>
+    <input type="tel" placeholder="Enter phone number" className="px-6 py-3 border-[2px] border-gray-500 text-black rounded-lg w-full"/>
     <input type="text" placeholder="Your Address:" className="px-6 py-3 border-[2px] border-gray-500 text-black rounded-lg w-full"/>
 
     <textarea name="" placeholder="Enter Your Message" id="" rows="4" className="px-6 py-3 border-[2px] border-gray-500 text-black rounded-lg w-full"></textarea>
